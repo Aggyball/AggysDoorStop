@@ -5,7 +5,7 @@
 
 ## Description
 
-Adding onto my old project, I switched over to NightFyre's DX11 base.
+Updated to AggyHookV2, I switched over to Gworks' DX11 base.
 
 ## Getting Started
 
